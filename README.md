@@ -6,7 +6,7 @@ I am Software Developer.
 
 *   🌍  I'm based in Bengaluru, India
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://stefantopalovicdev.vercel.app/'>Portfolio</a>
-*   🧠  Currently learning TypeScript
+*   🧠  Currently working on ReactJs, Typescript, Tailwind, Material UI.
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
